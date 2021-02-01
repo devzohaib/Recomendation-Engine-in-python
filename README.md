@@ -11,4 +11,4 @@ Through hands-on-workout, you’ll get to grips with the two most common systems
 * Jaccard distance  
 *  cosine similarity
 
-and how to evaluate the quality of recommendations on test data using the root mean square error (RMSE). By the end of this course, you’ll have built your very own movie recommendation engine and be able to apply your Python skills to create these systems for any industry.
+and how to evaluate the quality of recommendations on test data using the root mean square error (RMSE). By completing this project, you’ll have built your very own movie recommendation engine and be able to apply your Python skills to create these systems for any industry.
